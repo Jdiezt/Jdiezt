@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jdiezt
 - 👀 I’m interested in Python for Data Analysis
 - 🌱 I’m currently learning to code in Python
-- 💞️ I’m looking to collaborate on Computational/Proteomics/Lipidomics Science projects
+- 🧑‍🔬 I’m looking to collaborate on Computational/Proteomics/Lipidomics Science projects
 - 📫 How to reach me: jdieztr@gmail.com 
 
 <!---
